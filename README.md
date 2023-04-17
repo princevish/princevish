@@ -41,7 +41,7 @@
 
 <hr>
 
-[![Akash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=princevish&theme=github)](https://github.com/princevish)
+[![Prince's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=princevish&theme=github-compact)](https://github.com/princevish)
 
 <hr>
 
