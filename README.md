@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princevish
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me princevworld@gmail.com
 
